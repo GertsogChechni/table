@@ -1,0 +1,13 @@
+th{
+    padding: 6px 12px;
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    text-align: left;
+    text-transform: uppercase;
+    background-color: #dfdfe2;
+}
+
+table, th, td {
+    border: 1px #dfdfe2; 
+}
